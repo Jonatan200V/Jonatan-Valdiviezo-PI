@@ -1,0 +1,1 @@
+    "test": "mocha -w ./tests/**/*.spec.js"
